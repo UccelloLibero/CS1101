@@ -1,0 +1,57 @@
+# countup function output
+
+-13
+-12
+-11
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+Blastoff!
+
+------------------------------------------------------------------
+
+# Program run output
+# positive number
+
+python main.py
+How many seconds until the blastoff? 10
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+Blastoff!
+
+# negative number
+
+python main.py
+How many seconds until the blastoff? -10
+-10
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+Blastoff!
+
+# number zero
+
+python main.py
+How many seconds until the blastoff? 0
+Blastoff!

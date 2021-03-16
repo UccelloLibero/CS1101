@@ -1,0 +1,45 @@
+# OUTPUT PART 1
+['Educating', 'the', 'mind', 'without', 'educating', 'the', 'heart', 'is', 'no', 'education', 'at', 'all.']
+
+
+Educating
+
+
+['the', 'mind', 'without', 'educating', 'the', 'heart', 'is', 'education', 'at', 'all.']
+['the', 'mind', 'without', 'the', 'heart', 'is', 'education', 'at', 'all.']
+['all.', 'at', 'education', 'heart', 'is', 'mind', 'the', 'the', 'without']
+['all.', 'at', 'education', 'heart', 'is', 'mind', 'the', 'the', 'without', 'said by Aristotle']
+['all.', 'at', 'education', 'heart', 'is', 'mind', 'the', 'the', 'without', 'said by Aristotle', 'Once upon a time']
+['Supporting evidence shows', 'all.', 'at', 'education', 'heart', 'is', 'mind', 'the', 'the', 'without', 'said by Aristotle', 'Once upon a time']
+Supporting evidence shows all. at education heart is mind the the without said by Aristotle Once upon a time
+
+
+# OUTPUT PART 2
+# nesting
+Travel Expenses
+* Week #1: $29.75
+* Week #2: $75.25
+* Week #3: $42.25
+
+
+# "*" operator
+['happy', 'happy', 'happy', 'happy', 'happy', 'happy', 'happy', 'happy', 'happy', 'happy']
+
+# slicing
+Output:
+['passport', 'wallet']
+['laptop', 'towel']
+['tent', 'umbrella']
+
+
+# the "+" operator
+['if', 'you', 'are', 'happy', 'and', 'you', 'know', 'it', 'clap', 'your', 'hands']
+
+
+# filtering
+[4, 22, -3]
+
+# legal but unexpected operation
+
+['sunshine', 'moon', 'stars', 'lake', 'trees', 'm', 'o', 'u', 'n', 't', 'a', 'i', 'n', 's']
+['sunshine', 'moon', 'stars', 'lake', 'trees', 'm', 'o', 'u', 'n', 't', 'a', 'i', 'n', 's', 'mountains']
