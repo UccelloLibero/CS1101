@@ -1,0 +1,7 @@
+Mount Elbert:2
+Mount Massive:2
+Mount Harvard:1
+Blanca Peak:3
+Missouri Mountain:5
+Uncompahgre Peak:7
+Humboldt Peak:2

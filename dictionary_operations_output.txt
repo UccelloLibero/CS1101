@@ -1,0 +1,4 @@
+{'Mount Elbert': '2', 'Mount Massive': '2', 'Mount Harvard': '1', 'Blanca Peak': '3', 'Missouri Mountain': '5', 'Uncompahgre Peak': '7', 'Humboldt Peak': '2'}
+{'2': ['Mount Elbert', 'Mount Massive', 'Humboldt Peak'], '1': ['Mount Harvard'], '3': ['Blanca Peak'], '5': ['Missouri Mountain'], '7': ['Uncompahgre Peak']}
+{'Mount Elbert': '2', 'Mount Massive': '2', 'Mount Harvard': '1', 'Blanca Peak': '3', 'Missouri Mountain': '5', 'Uncompahgre Peak': '7', 'Humboldt Peak': '2'}
+ 

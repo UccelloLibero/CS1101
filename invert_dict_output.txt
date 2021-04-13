@@ -1,0 +1,2 @@
+{'Mount Elbert': '2', 'Mount Massive': '2', 'Mount Harvard': '1', 'Blanca Peak': '3'}
+{'2': ['Mount Elbert', 'Mount Elbert', 'Mount Massive'], '1': ['Mount Harvard', 'Mount Harvard'], '3': ['Blanca Peak', 'Blanca Peak']}
